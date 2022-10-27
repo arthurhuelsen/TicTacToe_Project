@@ -55,7 +55,7 @@ function handleWin(regions) {
     })
 
     const playerName = document.getElementById(turnPlayer).value
-    document.querySelector('h2').innerHTML = playerName + 'Venceu'
+    document.querySelector('h2').innerHTML = playerName + '  Venceu'
 }
 
 
